@@ -21,7 +21,7 @@
   <depend>robot_state_publisher</depend>
   <depend>transmission_interface</depend>
   <depend>diff_drive_controller</depend>
-
+  <depend>rtabmap_ros</depend>
   <depend>rviz</depend>
   <depend>xacro</depend>
 
